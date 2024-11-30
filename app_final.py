@@ -1,5 +1,4 @@
 import pandas as pd
-import pip freeze < requirements.txt as np
 import pickle
 import yfinance as yf
 from scipy.optimize import minimize
